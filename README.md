@@ -1,4 +1,4 @@
-Hi 👋 My name is Christopher Chalcraft
+Christopher Chalcraft
 ======================================
 
 Ops/Infra/Distributed compute
