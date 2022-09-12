@@ -1,4 +1,4 @@
-Christopher Chalcraft
+Hi 👋 My name is Christopher Chalcraft
 ======================================
 
 Ops/Infra/Distributed compute
@@ -14,7 +14,7 @@ Worked with data for many years with a focus on data quality and automation. Ver
 * ⚡  Love duplicate bridge and system design
 
 <a href="https://www.github.com/cchalc" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/cchalc?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a>
+src="https://img.shields.io/github/followers/cchalc?logo=github&style=for-the-badge&color=0891b2&labelColor=ffffff" /></a>
 
 ### Skills
 
@@ -32,15 +32,15 @@ src="https://img.shields.io/github/followers/cchalc?logo=github&style=for-the-ba
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/cchalc"><img src="https://github-readme-stats.vercel.app/api?username=cchalc&show_icons=true&hide=contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="cchalc's GitHub stats" /></a>
+<a href="http://www.github.com/cchalc"><img src="https://github-readme-stats.vercel.app/api?username=cchalc&show_icons=true&hide=contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=ffffff&hide_border=true&show_icons=true" alt="cchalc's GitHub stats" /></a>
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/cchalc/databricks-e2e-ml" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=cchalc&repo=databricks-e2e-ml&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/cchalc/nix-config" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=cchalc&repo=nix-config&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/cchalc/databricks-e2e-ml" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=cchalc&repo=databricks-e2e-ml&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en" /></a><a href="https://github.com/cchalc/nix-config" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=cchalc&repo=nix-config&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 <br /><br /><br /><br /><br />
 
-<div width="100%" align="center"><a href="https://github.com/cchalc/databricks-geospatial" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=cchalc&repo=databricks-geospatial&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center"><a href="https://github.com/cchalc/databricks-geospatial" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=cchalc&repo=databricks-geospatial&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en" /></a></div>
 
 ### Support Me
 
